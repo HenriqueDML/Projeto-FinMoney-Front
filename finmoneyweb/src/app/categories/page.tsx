@@ -10,6 +10,9 @@ export default function CategoriesPage() {
                 <div className="bg-slate-900 rounded p-6 m-6 min-w-2/3">
                     <h2 className="text-lg font-bold">Categorias</h2>
                     <CategotyItem/>
+                    <CategotyItem/>
+                    <CategotyItem/>
+                    <CategotyItem/>
                 </div>
             </main>
         </>
